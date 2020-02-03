@@ -1,0 +1,1 @@
+### The idea is to place the page objects using SitePrism in this directory if I have time available

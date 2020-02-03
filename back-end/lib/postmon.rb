@@ -1,0 +1,2 @@
+class Postmon
+end
